@@ -1,0 +1,11 @@
+,ref,corrupted,tokenized_corrupted
+0,How are you?, How,[None]
+1,Where are you?, Where,[None]
+2,When are you going?, When,[None]
+3,Is she coming?,,[]
+4,Are you fine?, fine,[None]
+5,Did she go to Europe or Australia?, Australia Europe,"[None, None]"
+6,where did you keep the book?, where,[None]
+7,Who did you meet on the way?,,[]
+8,Where is the bucket?, bucket Where,"[None, None]"
+9,Where to keep the cupboard?, cupboard Where,"[None, None]"
